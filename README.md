@@ -16,4 +16,5 @@ Visit the [Mode wiki](https://github.com/devleague/NASA-Launch-Kit-2017/wiki/Mod
 ## Jupyter Notebook
 
 Visit the [Jupyter Notebook wiki](https://github.com/devleague/NASA-Launch-Kit-2017/wiki/Jupyter-Notebook) page to get started using Jupyter Notebook on your local machine:
-- TODO
+- Download and Install Anaconda
+- Access a Jupyter Notebook
