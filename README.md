@@ -16,7 +16,7 @@
 </div>
 <br />
 
-A tutorial on Seaborn and Plotly data visualization using NASA's [Meteorite Landings](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh/data) dataset.
+A tutorial on the pandas DataFrame and Seaborn and Plotly data visualization using NASA's [Meteorite Landings](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh/data) dataset.
 
 Feel free to use Mode or Jupyter Notebook to follow along.  If you're new to both, visit the wiki pages to learn more.
 
